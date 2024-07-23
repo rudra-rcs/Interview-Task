@@ -1,0 +1,9 @@
+First of all set the destination location for the project
+then after installing the necessary packages through npm
+Then please going to set the .env file which is I am going to share you
+after setting the necessary requirements please run the project through npm run dev
+then open the postman and write the route names and run the project
+As this is Basic Crud Operations I am not creating the loggers and proper response with latest version
+Check the mongoDb for the proper result for the add,update,list,delete
+
+If you have any doubt kindly contact me any time
